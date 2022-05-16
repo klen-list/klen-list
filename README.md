@@ -2,7 +2,7 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=klen-list&count_private=true&show_icons=true&theme=omni"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klen-list&layout=compact&theme=omni" width="38%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klen-list&layout=compact&theme=omni" width="48%"/>
 </p>
 
 <hr>
