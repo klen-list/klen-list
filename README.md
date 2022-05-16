@@ -19,7 +19,7 @@
 <h1 align="center">🇬 My Garry's Mod Server (Sandbox)</h1>
 
 <p align="center">
-<a href="https://wiki.bombassgmod.ru"><img align="center" src="https://img.shields.io/website?down_color=Offline&label=%F0%9F%8C%90%20WebSite&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwiki.bombassgmod.ru"/></a>
+<a href="https://wiki.bombassgmod.ru"><img align="center" src="https://img.shields.io/website?down_color=red&down_message=offline&label=%F0%9F%8C%90%20WebSite&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwiki.bombassgmod.ru"/></a>
 <a href="https://steamcommunity.com/groups/pokatushkiRU"><img align="center" src="https://img.shields.io/badge/Steam-Group-2a475e?style=for-the-badge&logo=steam"/></a>
 <a href="https://connect.bombassgmod.ru"><img align="center" src="https://img.shields.io/badge/🇬%20Connect%20to-server-0081ff?style=for-the-badge"/></a>
 </p>
