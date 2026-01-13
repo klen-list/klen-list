@@ -1,8 +1,8 @@
 <h1 align="center">📊 Stats</h1>
 
 <p align="center">
-<img align="center" src="https://githubcard.com/klen-list.svg?d=fyYt9XN3" width="530px"/>
-<img align="center" src="https://githubcard.com/klen-list.svg?d=SmndbMhg" width="400px"/>
+<img align="center" src="https://githubcard.com/klen-list.svg?d=fyYt9XN3" width="430px"/>
+<img align="center" src="https://githubcard.com/klen-list.svg?d=SmndbMhg" width="330px"/>
 </p>
 
 <hr>
